@@ -19,6 +19,7 @@ This repository documents my journey through the Introduction to Cloud Computing
 3. **Pricing Comparison**:
    - Utilized the pricing calculators of AWS, Azure, and Google Cloud.
    - Compared the costs of a basic virtual machine instance across various regions such as US East, US West, Europe, and Asia.
+   - I also compared the storage service prices for each platforms
 
 ## Lessons Learned
 
